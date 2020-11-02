@@ -9,7 +9,7 @@
 > This workshop is focused on helping you move from idea to production using GitHub Actions and GitHub Packages. We will be looking at how to build, test, release, and deploy code to the cloud, secrets management, as well as automating administrative tasks. After this workshop, you will be able to leverage these features to improve your own workflows.
 
 ## :mega: Prerequisites
-- A [GitHub.com account](https://github.com/)
+- A [GitHub.com account](https://github.com/join) with a [verified e-mail address](https://docs.github.com/en/free-pro-team@latest/github/getting-started-with-github/verifying-your-email-address)
 - Basic understanding of `yaml` syntax
 - Basic understanding of GitHub APIs
 - Basic understanding of DevOps processes
