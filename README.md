@@ -18,8 +18,8 @@
 
 ## :books: Resources
 - [Introduction to YAML: Learn YAML in 5 minutes](https://www.codeproject.com/Articles/1214409/Learn-YAML-in-five-minutes)
-- [GitHub Docs: GitHub Actions](https://docs.github.com/en/free-pro-team@latest/actions)
-- [GitHub Docs: Workflow syntax](https://docs.github.com/en/free-pro-team@latest/actions/reference/workflow-syntax-for-github-actions)
-- [GitHub Docs: REST API](https://docs.github.com/en/free-pro-team@latest/rest)
-- [GitHub Docs: GraphQL API](https://docs.github.com/en/free-pro-team@latest/graphql)
-- [GitHub Docs: GitHub Packages](https://docs.github.com/en/free-pro-team@latest/packages)
+- [GitHub Docs: GitHub Actions](https://docs.github.com/actions)
+- [GitHub Docs: Workflow syntax](https://docs.github.com/actions/reference/workflow-syntax-for-github-actions)
+- [GitHub Docs: REST API](https://docs.github.com/rest)
+- [GitHub Docs: GraphQL API](https://docs.github.com/graphql)
+- [GitHub Docs: GitHub Packages](https://docs.github.com/packages)
