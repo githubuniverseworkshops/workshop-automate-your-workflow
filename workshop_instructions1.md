@@ -71,7 +71,7 @@
         </br>
 
         ```js
-        console.log("Hello, GitHub Universe!)
+        console.log("Hello, GitHub Universe!")
         ```
         </details>
     
