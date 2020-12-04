@@ -38,11 +38,13 @@
         <details>
         <summary><b>Click here to view file contents to copy:</b></summary>
         </br>
-        :bulb: <b>Make sure you replace the placeholders OWNER with your GitHub handle or organization name (if you created the repository in an organization), and REPOSITORY_NAME.</b>
+        :bulb: <b>Replace the placeholders OWNER with your GitHub handle or organization name (if you created the repository in an organization), and REPOSITORY_NAME.</b>
+        </br>
+        :warning: <b>Your package name cannot contain uppercase letters! If your values for OWNER and/or REPOSITORY contains uppercase letters, change them to lowercase before proceeding.</b>
 
         ```json
         {
-          "name": "@OWNER/REPOSITORY_NAME",
+          "name": "@<owner>/<repository-name>",
           "version": "1.0.0",
           "description": "Demo repository for GitHub Universe 2020",
           "main": "index.js",
@@ -51,15 +53,15 @@
           },
           "repository": {
             "type": "git",
-            "url": "git+https://github.com/OWNER/REPOSITORY_NAME.git"
+            "url": "git+https://github.com/<owner>/<repository-name>.git"
           },
           "keywords": [],
           "author": "",
           "license": "ISC",
           "bugs": {
-            "url": "https://github.com/OWNER/REPOSITORY_NAME/issues"
+            "url": "https://github.com/<owner>/<repository-name>/issues"
           },
-          "homepage": "https://github.com/OWNER/REPOSITORY_NAME#readme",
+          "homepage": "https://github.com/<owner>/<repository-name>#readme",
           "dependencies": {}
         }
         ```
