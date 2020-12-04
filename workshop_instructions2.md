@@ -57,7 +57,7 @@
       ```
     </details>
 
-    - Notice how this workflow calls for a special config file called `release-drafter-config.yml`. This is a config file that allows you to add more customization. So let's go ahead and add a config file for this action at `github/release-drafter-config.yml`:
+    - Notice how this workflow calls for a special config file called `release-drafter-config.yml`. This is a config file that allows you to add more customization. So let's go ahead and add a config file for this action at `.github/release-drafter-config.yml`:
         <details>
         <summary><b>Click here to view file contents to copy:</b></summary>
         </br>
