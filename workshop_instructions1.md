@@ -179,6 +179,7 @@
       ```
       </details>
 
+- :warning: `yaml` syntax relies on indentation, please make sure that this is not changed
 - Update the name of your workflow
 - Within the `comment` job, you can edit the body of the comment as you see fit
 - Commit the changes to your default branch
