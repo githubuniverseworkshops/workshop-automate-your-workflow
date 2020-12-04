@@ -214,7 +214,7 @@
 
 1. Make some changes/add some text
 
-1. Commit your changes to a new branch e.g. `add-ci-workflow` and click **Commit changes**
+1. Commit your changes to a new branch e.g. `update-readme` and click **Commit changes**
 
 1. In the pull request, leave the title and the body to default and click **Create pull request**
 
