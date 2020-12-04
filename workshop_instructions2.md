@@ -94,11 +94,11 @@
 
 ## Watch your actions come to life!
 
-1. Merge the pull request
+1. Merge the pull request and check that your workflow completes successfully
 
 1. Click on the `Code` tab and click on `Packages` on the right sidebar to find your package
 
-1. Click on `Releases` on the right sidebar to find your new draft Release
+1. Click on `Releases` on the right sidebar to find your new draft release
 
 
 ## Additional Exercise
