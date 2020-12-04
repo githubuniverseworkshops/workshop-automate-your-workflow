@@ -66,7 +66,7 @@
       name-template: 'v$RESOLVED_VERSION 🌈'
       tag-template: 'v$RESOLVED_VERSION'
       categories:
-        - title: '🚀 You did it!'
+        - title: 'Changes included in this release'
           labels:
             - 'release'
       change-template: '- $TITLE @$AUTHOR (#$NUMBER)'
@@ -83,7 +83,7 @@
             - 'patch'
         default: patch
       template: |
-        ## Changes
+        # 🚀 You did it!
 
         $CHANGES
       ```
