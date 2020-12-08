@@ -2,7 +2,7 @@
 
 :bookmark: The following instructions will take on the assumption that you will be completing the steps on the GitHub UI. Feel free to use the terminal or any other GUIs you are comfortable with.
 
-![UniversePresentation](https://user-images.githubusercontent.com/38323656/99338458-dcf99580-2849-11eb-9d17-a2e41376f721.png)
+![UniversePresentation](https://user-images.githubusercontent.com/38323656/101427774-1eb7b200-38c5-11eb-912a-f3ce02211d2c.png)
 
 # Workflow 1: Steps to set up CI workflow
 
